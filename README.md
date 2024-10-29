@@ -34,8 +34,8 @@
 
 | Repository Name | Description |
 |-----------------|-------------|
-| [Genomics of Drug Sensitivity in Cancer (GDSC)](https://github.com/Abhi-0312/Energy_Efficient_Engineers_050) | Analyzed and cleaned a dataset of over 250,000 rows. Developed SQL database and Power BI dashboard for data visualization and report generation. |
-| [Solar Plant Dashboard](https://github.com/theDhanendra/solar_power) | Built an interactive Streamlit dashboard for real-time analysis of solar power data. Contributed to data cleaning, dynamic charts, and project deployment. |
+| [Genomics of Drug Sensitivity in Cancer (GDSC)](https://github.com/Sreeram110/Energy_Efficient_Engineers_050.git) | Analyzed and cleaned a dataset of over 250,000 rows. Developed SQL database and Power BI dashboard for data visualization and report generation. |
+| [Solar Plant Dashboard](https://github.com/Sreeram110/solar_power.git) | Built an interactive Streamlit dashboard for real-time analysis of solar power data. Contributed to data cleaning, dynamic charts, and project deployment. |
 
 ---
 
