@@ -67,6 +67,9 @@
   <a href="mailto:yarlagaddasreeram92@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://drive.google.com/file/d/1wrlk7vU8JzZCyIMk2yWvE_O29dHlKoJu/view">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
 </p>
 
 ---
